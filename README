@@ -1,0 +1,21 @@
+Implementation of Shell in C.
+An user interactive shell with some commands such as:
+	pwd
+	echo
+	ls
+	pinfo
+	cd
+and also running of processes both foreground and background.
+
+For executing multiple commands separate them by ';'.
+
+For running a process in background enter command and & after that
+	Ex: firefox &
+	it will return process id 
+	and when it is closed by user it will prompt
+	message saying that.
+
+
+#Contributors:
+	Rahul Bishnoi
+	Mashrukh Islam
